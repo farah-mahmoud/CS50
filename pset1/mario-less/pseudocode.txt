@@ -1,0 +1,10 @@
+for loop
+if height = 4
+print 4-3
+4-2
+4-1
+4
+    for (int k=0; k ; k++)
+    {
+     printf(".");
+    }

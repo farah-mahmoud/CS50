@@ -1,0 +1,49 @@
+sort1 uses: Bubble sort
+
+How do you know?:
+0m0.082s reversed5000
+0m0.382s reversed10000
+0m11.433s reversed50000
+
+0m0.066s random 5000
+0m0.295s random 10000
+0m13.673s random 50000
+
+0m0.039s sorted5000
+0m0.095s sorted10000
+0m3.827s sorted50000
+
+sort2 uses: Merge sort
+
+How do you know?:
+0m0.026s reversed5000
+0m0.073s reversed10000
+0m9.238s reversed50000
+
+0m0.043s random 5000
+0m0.254s random 10000
+0m8.209s random 50000
+
+0m0.021s sorted5000
+0m0.065s sorted10000
+0m4.044s sorted50000
+
+sort3 uses: Selection sort
+
+How do you know?:
+0m0.087s reversed5000
+0m0.200s reversed10000
+0m8.751s reversed50000
+
+0m0.071s random5000
+0m0.200s random10000
+0m11.520s random50000
+
+0m0.055s sorted5000
+0m0.193s sorted10000
+0m9.945s sorted50000
+
+notes:
+reversed: worst case
+random: normal case
+sorted: best case
